@@ -8,11 +8,7 @@ This project demonstrates how **LangChain** can be integrated with a **SQL sales
 
 - Natural language to SQL query generation using LLMs
 - Integrated with a structured **Sales Database**
-- Supports business questions like:
-  - Total sales by product / region
-  - Monthly or yearly revenue
-  - Top-selling products
-  - Customer-wise purchase analysis
+- Answers to the questions like total products on the basis of quantity, commodities and goods present
 - Clean and modular Python code
 
 ---
