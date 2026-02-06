@@ -27,5 +27,5 @@ This project demonstrates how **LangChain** can be integrated with a **SQL sales
 
 ---
 
-## 📂 Project Structure
+
 
